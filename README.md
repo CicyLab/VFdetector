@@ -1,3 +1,3 @@
 # VFdetector
 
-an automatic tool to dectect pathogen associated virulence factors in whole metagenomic sequencing data
+an automatic pipeline for the identification, quantification and visualization of virulence factors in metagenomic sequencing data
