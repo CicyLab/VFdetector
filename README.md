@@ -1,6 +1,6 @@
 # VFDetector
 
-an automatic pipeline for the identification, quantification and visualization of virulence factors in metagenomic sequencing data
+An automatic pipeline for the identification, quantification and visualization of virulence factors in metagenomic sequencing data
 
 Dependencies:
 Python >=3.7
